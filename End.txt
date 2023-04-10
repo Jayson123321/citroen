@@ -1,0 +1,10 @@
+@echo OFF
+CLS
+ECHO .
+ECHO .
+ECHO Office pakket wordt geinstalleerd op uw systeem 
+ECHO .
+ECHO Belangrijk is dat u deze installatie niet onderbreekt!
+ECHO Druk op een willekeurige toets om de installatie te beginnen
+PAUSE 
+setup.exe /configure Configuratieoffice.xml
