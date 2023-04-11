@@ -8,3 +8,10 @@ ECHO Belangrijk is dat u deze installatie niet onderbreekt!
 ECHO Druk op een willekeurige toets om de installatie te beginnen
 PAUSE 
 setup.exe /configure Configuratieoffice.xml
+
+XML aanpassen
+Onedrive exlude
+Outlook exlude
+Onenote exlude
+Updates enabled = ‘’True’’ moet ‘’False’’ zijn
+Bedrijf moet zijn ‘Amereijk’ om te checken ga naar ‘details’ van program en check bij ‘Bedrijf’ of Amereijk erbij staat.
